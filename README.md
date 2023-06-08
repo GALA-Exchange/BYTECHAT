@@ -1,7 +1,3 @@
-    <h1 align="center">BYTE CHAT</h1>
-  </a>
-</p>
-
 <p align="center">
   <a aria-label="Join the community on Discord" href="https://discord.gg/XwuaaRJQ">
   </a>
